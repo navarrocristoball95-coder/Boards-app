@@ -1,0 +1,25 @@
+﻿*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+*.apk
+*.aab
+.kotlin/
+
+# Node / Web
+boards-web/node_modules/
+boards-web/dist/
+boards-web/.vercel/
+boards-web/.env.local
+boards-web/.env.*.local
+boards-web/npm-debug.log*
+boards-web/yarn-debug.log*
+boards-web/yarn-error.log*
+boards-web/.pnpm-debug.log*
